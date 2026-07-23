@@ -1,5 +1,5 @@
 # English Learning Blog
-<img src="image.png "width="900">
+<img src="image.png" width="900">
 
 A personal blog documenting my English learning journey through class assignments, written activities, audio recordings, videos, and learning resources.
 # Live Demo
